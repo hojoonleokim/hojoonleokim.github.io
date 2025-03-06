@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "",
+          description: "\* indicates equal contribution",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -37,11 +37,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/awards/";
           },
-        },{id: "awards-acm-sigsoft-distinguished-paper-award-from-ase-22",
-          title: 'ACM SIGSOFT Distinguished Paper Award from ASE’22.',
+        },{id: "awards-accelerator-programming-winter-school-advanced-class-1st-prize-from-thunder-research-group",
+          title: 'Accelerator Programming Winter School Advanced Class 1st prize from THUNDER Research Group.',
           description: "",
-          section: "Awards",},{id: "teaching-teaching-assistant-for-bt2102-data-management-and-visualisation-undergraduate-course",
-          title: 'Teaching Assistant for BT2102 Data Management and Visualisation (Undergraduate course).',
+          section: "Awards",},{id: "teaching-teaching-assistant-for-programming-methodology-undergraduate-course",
+          title: 'Teaching Assistant for Programming Methodology (Undergraduate course).',
           description: "",
           section: "Teaching",},{
       id: 'light-theme',
