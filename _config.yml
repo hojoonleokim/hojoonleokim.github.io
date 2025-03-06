@@ -91,6 +91,7 @@ collections:
     defaults:
       layout: post
     output: true
+    permalink: /news/:path/
   awards:
     defaults:
       layout: post
