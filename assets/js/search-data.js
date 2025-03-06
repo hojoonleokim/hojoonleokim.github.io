@@ -30,7 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/awards/";
           },
-        },{
+        },{id: "awards-acm-sigsoft-distinguished-paper-award-from-ase-22",
+          title: 'ACM SIGSOFT Distinguished Paper Award from ASE’22.',
+          description: "",
+          section: "Awards",},{id: "teaching-teaching-assistant-for-bt2102-data-management-and-visualisation-undergraduate-course",
+          title: 'Teaching Assistant for BT2102 Data Management and Visualisation (Undergraduate course).',
+          description: "",
+          section: "Teaching",},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
