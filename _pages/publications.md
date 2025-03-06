@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: 
-    * indicates equal contribution
+    # * indicates equal contribution
 nav: true
 nav_order: 1
 ---
