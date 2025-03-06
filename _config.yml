@@ -83,6 +83,22 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 
 # -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
+
+collections:
+  awards:
+    defaults:
+      layout: post
+    output: true
+    permalink: /awards/:path/
+  teaching:
+    defaults:
+      layout: post
+    output: true
+    permalink: /teaching/:path/    
+
+# -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
 
