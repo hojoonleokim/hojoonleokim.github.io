@@ -40,7 +40,7 @@ ninja.data = [{
         },{id: "awards-accelerator-programming-winter-school-advanced-class-1st-prize-from-thunder-research-group",
           title: 'Accelerator Programming Winter School Advanced Class 1st prize from THUNDER Research Group.',
           description: "",
-          section: "Awards",},{id: "news-i-made-my-page-i-really-really-want-to-go-stanford-what-about-summer-session-it-is-20000",
+          section: "Awards",},{id: "news-i-made-my-page-i-really-really-want-to-go-stanford-what-about-summer-session-it-is-20000-i-made-my-page-i-really-really-want-to-go-stanford-what-about-summer-session-it-is-20000",
           title: 'I made my page!! I really Really want to go Stanford. What about...',
           description: "",
           section: "News",},{id: "teaching-teaching-assistant-for-programming-methodology-undergraduate-course",
