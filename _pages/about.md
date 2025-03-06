@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Undergrad Student, Electrical and Computer Engineering, Seoul National University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: hojoon_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
